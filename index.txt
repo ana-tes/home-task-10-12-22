@@ -3,3 +3,4 @@ index test2
 branch1 index
 second commit on branch1
 third commit on branch1
+Added text to index in branch1

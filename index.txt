@@ -1,2 +1,5 @@
 index text
 index test2
+branch1 index
+second commit on branch1
+third commit on branch1

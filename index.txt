@@ -1,2 +1,3 @@
 index text
 branch1 index
+second commit on branch1
